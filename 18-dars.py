@@ -1,3 +1,4 @@
+                                                                                 While sikliga oid kodlar
 print('Sinfdoshlar ro\'yxati:')
 sinfdoshlar=[]
 n=1
